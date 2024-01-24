@@ -6,4 +6,22 @@ This project aims to conduct a comparative study of age estimation models using 
    ```bash
     pip install -r requirements.txt
     ```
-2. 
+2. **Detailed Comparative Study Report:** The detailed report of the comparative study, including the methodology, results, and in-depth analyses, can be found in the **Computer vision.pdf** file.
+
+
+## Contact :busts_in_silhouette:
+Feel free to reach out to us if you have any questions or suggestions:
+
+**Chaimae BOUYARMANE**
+
+ <a href="https://linkedin.com/in/chaimae-bouyarmane-14882622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaimae bouyarmane" height="30" width="40" /></a>
+<a href="https://github.com/chaimaebouyarmane" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Votre nom" height="30" width="40" />
+</a> 
+
+
+---
+
+
+
+
